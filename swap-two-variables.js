@@ -15,7 +15,6 @@ b = temp;
 console.log(`The value of a after swapping: ${a}`);
 console.log(`The value of b after swapping: ${b}`);
 
-
 // 2
 
 //take input from the users
