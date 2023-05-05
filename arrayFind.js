@@ -11,7 +11,7 @@ const inventory = [
     quantity: 0,
   },
   {
-    name: "cherries",
+    name: "cherries", // find first value
     quantity: 5,
   },
   {
