@@ -29,7 +29,6 @@ var emp = [
     salary: 12000,
   },
 ];
-
 var input = prompt(); // kan
 
 var b = a.filter((val) => val.name.includes(input.toLowerCase));
