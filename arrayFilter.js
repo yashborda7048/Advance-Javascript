@@ -30,7 +30,7 @@ var emp = [
   },
 ];
 var input = prompt(); // kan
-
+// var b = a.filter((val) => val.name == input;
 var b = a.filter((val) => val.name.includes(input.toLowerCase));
 
 // output
